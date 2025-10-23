@@ -1,0 +1,3 @@
+ - Link: De held van het verhaal.
+- Zelda: De prinses van Hyrule.
+- Ganon: De koning van het kwaad.
